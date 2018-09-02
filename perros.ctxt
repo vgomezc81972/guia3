@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=perros
+comment1.params=nombre_perro\ raza\ localidad\ cedula\ nombre_due\u00F1o\ telefono\ dia
+comment1.target=perros(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=bd
+comment2.target=void\ ListarPerros(java.util.ArrayList)
+comment3.params=
+comment3.target=java.lang.String\ obtenerLocal()
+comment4.params=
+comment4.target=void\ mostrar()
+comment5.params=bd
+comment5.target=void\ ListadoPerros(java.util.ArrayList)
+comment6.params=bd
+comment6.target=void\ mostrarAgrupadosLocalidad(java.util.ArrayList)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

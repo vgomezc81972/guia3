@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ascensor
+comment1.params=pisoActual
+comment1.target=void\ ubicacionPiso(int)
+comment2.params=nuevoSotanos
+comment2.target=void\ cantidadSotanos(int)
+comment3.params=
+comment3.target=void\ calcularSubir()
+comment4.params=
+comment4.target=void\ calcularBajar()
+comment5.params=
+comment5.target=void\ calcularMovimientoAscensor()
+comment6.params=
+comment6.target=int\ calcularPisos()
+comment7.params=
+comment7.target=void\ leer()
+comment8.params=arg
+comment8.target=void\ main(java.lang.String[])
+numComments=9

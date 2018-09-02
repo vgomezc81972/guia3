@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=dupla
+comment1.params=
+comment1.target=dupla()
+comment2.params=a2\ b2
+comment2.target=void\ guarda(int,\ int)
+comment3.params=
+comment3.target=void\ lee()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

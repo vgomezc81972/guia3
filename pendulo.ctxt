@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=pendulo
+comment1.params=
+comment1.target=pendulo()
+comment10.params=val
+comment10.target=java.lang.String\ convertir(double)
+comment2.params=lon\ ace
+comment2.target=pendulo(int,\ int)
+comment3.params=
+comment3.target=int\ obtenerLongitud()
+comment4.params=
+comment4.target=int\ obtenerAceleracion()
+comment5.params=nuevoLongitud
+comment5.target=void\ cambiarLongitud(int)
+comment6.params=nuevoAceleracion
+comment6.target=void\ cambiarAceleracion(int)
+comment7.params=
+comment7.target=double\ calcularPeriodo()
+comment8.params=
+comment8.target=void\ leer()
+comment9.params=arg
+comment9.target=void\ main(java.lang.String[])
+numComments=11
